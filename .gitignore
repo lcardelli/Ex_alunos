@@ -35,3 +35,7 @@ Thumbs.db
 
 # Ignorar módulos Go específicos
 go.sum
+
+# Ignorar arquivos de variáveis de ambiente
+.env
+
