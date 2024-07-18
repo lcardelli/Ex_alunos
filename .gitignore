@@ -1,0 +1,37 @@
+# Diretórios padrão do Go
+/bin/
+/pkg/
+
+# Arquivos de configuração do IDE (exemplo: VSCode, IntelliJ, etc.)
+.vscode/
+.idea/
+
+# Arquivos e diretórios do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de logs
+*.log
+
+# Arquivos de execução
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Arquivos temporários e caches
+*.tmp
+*.cache
+
+# Arquivos de cobertura de testes
+*.out
+
+# Arquivos e diretórios gerados por ferramentas de build
+/dist/
+/build/
+
+# Arquivos de configuração local
+.env
+
+# Ignorar módulos Go específicos
+go.sum
